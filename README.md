@@ -31,8 +31,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## Acknowledgments 🙏
 
-- [Course Provider or any third-party API if used]
 - Icons and graphics resources
 - All the contributors
 
----
+
